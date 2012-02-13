@@ -1,0 +1,5 @@
+### COMBINED LIGHTBOX FOR CONTAO ###
+
+Allows to define a lightbox rel ID for each 'Image' or 'Gallery' lightbox in the backend to combine lightbox galleries throughout a page in Contao CMS. Fallback to generated ID. Uses a custom Template for the 'Image' CE at the moment. 
+
+* Duotones - Marcel Hadorn *
